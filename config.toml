@@ -1,6 +1,5 @@
 [theme]
-primaryColor = "#00BFFF"              # bright cyan blue (Blue Lock style)
-backgroundColor = "#0E0E2C"           # deep dark blue
-secondaryBackgroundColor = "#1C1C3A"  # slightly lighter dark blue
-textColor = "#FFFFFF"                 # white text for readability
-font = "sans serif"
+base="dark"
+primaryColor="#323de8"
+backgroundColor="#000000"
+font= "monospace"
