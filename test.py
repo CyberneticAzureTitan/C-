@@ -40,8 +40,6 @@ with st.container():
         st.markdown("""
         These are facts about me that I consider interesting:
         - I was born on the 8th of November 2009.
-        - My favorite Anime/Manga is Blue Lock.
-        - I am a huge fan of Itoshi Rin.
         - I used to play Roblox, but I find it boring and a waste of time and brain cells.
         - Everything you do in life should be something that helps you in a good way. 
         """)
@@ -94,3 +92,4 @@ with st.container():
         }
         </style>
     """, unsafe_allow_html=True)
+
