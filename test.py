@@ -1,3 +1,4 @@
+
 import requests
 import streamlit as st
 from streamlit_lottie import st_lottie
@@ -81,7 +82,7 @@ with st.container():
             padding: 8px;
             border: 1px solid #ccc;
             border-radius: 5px;
-            width: 100%;
+            width: 25%;
         }
         button {
             padding: 10px;
@@ -89,7 +90,7 @@ with st.container():
             color: white;
             border: none;
             border-radius: 5px;
+            width: 7%
         }
         </style>
     """, unsafe_allow_html=True)
-
